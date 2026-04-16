@@ -28,7 +28,10 @@ lake build
 
 ```
 FhePlayground/
-└── Basic.lean   — LWE types, encrypt/decrypt, encode/decode, and a correctness proof
+├── Defs.lean         — types, encrypt, decrypt, encode, decode
+├── Correctness.lean  — correctness theorems
+├── Noise.lean        — noise model and bounds
+└── Scratch.lean      — experiments and works-in-progress
 ```
 
 Just getting started. More to come as I dig deeper.

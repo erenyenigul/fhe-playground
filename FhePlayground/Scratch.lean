@@ -1,4 +1,2 @@
 import FhePlayground.Defs
 import FhePlayground.Correctness
-import FhePlayground.Noise
-import FhePlayground.Scratch
