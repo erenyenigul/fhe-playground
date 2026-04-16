@@ -2,9 +2,7 @@
 
 Personal scratchpad for exploring Fully Homomorphic Encryption in Lean 4.
 
-I'm using Lean as a way to understand FHE more deeply. Forcing myself to state things precisely enough that a proof assistant accepts them. The goal isn't to build anything production-ready, just to get a clearer picture of how LWE-based schemes actually work under the hood.
-
----
+--- 
 
 ## Setup
 
