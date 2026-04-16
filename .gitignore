@@ -1,0 +1,10 @@
+# Lake build artifacts
+.lake/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.claude/
+*.swp
